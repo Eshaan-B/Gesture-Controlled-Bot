@@ -8,3 +8,4 @@ An arduino based project that allows you to control the movements of a bot by th
 5. 300 rpm motors (x2)
 6. Glove (x1)
 7. 9V and 12V Battery 
+8. ADXL335 accelerometer
